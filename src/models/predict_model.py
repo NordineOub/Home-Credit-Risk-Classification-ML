@@ -1,4 +1,5 @@
 from fct.fct_etl import * 
+from features.build_features import X_test
 from sklearn.metrics import mean_squared_error
 import xgboost as xgb
 
