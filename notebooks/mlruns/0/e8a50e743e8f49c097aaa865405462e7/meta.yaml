@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/adrie/Documents/Efrei/DataEng/Home-Credit-Risk-Classification-ML/notebooks/mlruns/0/e8a50e743e8f49c097aaa865405462e7/artifacts
+end_time: 1673801043258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8a50e743e8f49c097aaa865405462e7
+run_name: nebulous-whale-409
+run_uuid: e8a50e743e8f49c097aaa865405462e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673801041036
+status: 3
+tags: []
+user_id: adrie
