@@ -1,0 +1,12 @@
+creation_timestamp: 1674416206416
+current_stage: None
+description: ''
+last_updated_timestamp: 1674416206416
+name: se
+run_id: 1eeb2bd7d87a47dd99af06f34eba6dc3
+run_link: ''
+source: file:///c:/Users/adrie/Documents/Efrei/DataEng/Home-Credit-Risk-Classification-ML/notebooks/mlruns/0/1eeb2bd7d87a47dd99af06f34eba6dc3/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

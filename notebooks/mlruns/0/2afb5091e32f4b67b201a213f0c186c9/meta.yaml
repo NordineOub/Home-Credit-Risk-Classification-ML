@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/adrie/Documents/Efrei/DataEng/Home-Credit-Risk-Classification-ML/notebooks/mlruns/0/2afb5091e32f4b67b201a213f0c186c9/artifacts
+end_time: 1674415407863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2afb5091e32f4b67b201a213f0c186c9
+run_name: kindly-dolphin-872
+run_uuid: 2afb5091e32f4b67b201a213f0c186c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674415404970
+status: 3
+tags: []
+user_id: adrie

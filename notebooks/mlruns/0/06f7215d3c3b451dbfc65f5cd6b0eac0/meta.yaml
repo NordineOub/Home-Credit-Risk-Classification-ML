@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/adrie/Documents/Efrei/DataEng/Home-Credit-Risk-Classification-ML/notebooks/mlruns/0/06f7215d3c3b451dbfc65f5cd6b0eac0/artifacts
+end_time: 1674418507269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06f7215d3c3b451dbfc65f5cd6b0eac0
+run_name: awesome-panda-938
+run_uuid: 06f7215d3c3b451dbfc65f5cd6b0eac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674418505185
+status: 3
+tags: []
+user_id: adrie

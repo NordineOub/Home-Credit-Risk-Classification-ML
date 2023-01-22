@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/adrie/Documents/Efrei/DataEng/Home-Credit-Risk-Classification-ML/notebooks/mlruns/0/1bc04952b94c4f418b70d2cbb50088e9/artifacts
+end_time: 1674418627761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bc04952b94c4f418b70d2cbb50088e9
+run_name: vaunted-worm-6
+run_uuid: 1bc04952b94c4f418b70d2cbb50088e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674418625448
+status: 3
+tags: []
+user_id: adrie

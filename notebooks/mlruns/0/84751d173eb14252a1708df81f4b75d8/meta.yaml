@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/adrie/Documents/Efrei/DataEng/Home-Credit-Risk-Classification-ML/notebooks/mlruns/0/84751d173eb14252a1708df81f4b75d8/artifacts
+end_time: 1674418464825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84751d173eb14252a1708df81f4b75d8
+run_name: zealous-cod-393
+run_uuid: 84751d173eb14252a1708df81f4b75d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674418462567
+status: 3
+tags: []
+user_id: adrie
