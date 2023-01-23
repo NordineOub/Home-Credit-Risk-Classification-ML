@@ -1,0 +1,11 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - scikit-learn
+  - joblib
+  - pip
+  - pip:
+    - mlflow

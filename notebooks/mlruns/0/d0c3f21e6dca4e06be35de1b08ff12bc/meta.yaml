@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/adrie/Documents/Efrei/DataEng/Home-Credit-Risk-Classification-ML/notebooks/mlruns/0/d0c3f21e6dca4e06be35de1b08ff12bc/artifacts
+end_time: 1674507431653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0c3f21e6dca4e06be35de1b08ff12bc
+run_name: shivering-wolf-768
+run_uuid: d0c3f21e6dca4e06be35de1b08ff12bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674507428304
+status: 3
+tags: []
+user_id: adrie

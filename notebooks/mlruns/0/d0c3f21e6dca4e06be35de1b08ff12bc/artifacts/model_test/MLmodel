@@ -1,0 +1,27 @@
+artifact_path: model_test
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 2.1.1
+model_uuid: 4e67d1e1357e409dbc2b8a8e18676ae6
+run_id: d0c3f21e6dca4e06be35de1b08ff12bc
+signature:
+  inputs: '[{"name": "EXT_SOURCE_3", "type": "double"}, {"name": "EXT_SOURCE_1", "type":
+    "double"}, {"name": "EXT_SOURCE_2", "type": "double"}, {"name": "DAYS_EMPLOYED",
+    "type": "double"}, {"name": "DAYS_BIRTH", "type": "double"}, {"name": "REGION_RATING_CLIENT_W_CITY",
+    "type": "double"}, {"name": "REGION_RATING_CLIENT", "type": "double"}, {"name":
+    "DAYS_LAST_PHONE_CHANGE", "type": "double"}, {"name": "DAYS_ID_PUBLISH", "type":
+    "double"}, {"name": "DEF_30_CNT_SOCIAL_CIRCLE", "type": "double"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+utc_time_created: '2023-01-23 20:57:08.347194'
